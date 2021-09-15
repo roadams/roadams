@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roadams
-- 🌍 I live in Grosland
+- 🌍 I live in Groland
 
 <!---
 roadams/roadams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
