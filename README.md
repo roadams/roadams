@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @roadams
-- 👀 I’m interested in sex, bier and pizzas
 - 🌍 I live in Grosland
 
 <!---
